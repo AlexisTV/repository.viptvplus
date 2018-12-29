@@ -1,0 +1,120 @@
+[2018-12-29 00:05:31] 2018-12-29 00:05:31.783000
+[2018-12-29 00:05:32] Continuing Start Up Script
+[2018-12-29 00:05:32] [Path Check] Started
+[2018-12-29 00:05:39] [Path Check] ADDON_ID and plugin folder doesnt match. VipTv Astro / ('C:\\Users\\MyUniverse\\AppData\\Roaming\\Kodi\\addons', 'plugin.program.stva') 
+[2018-12-29 00:05:39] [Auto Install Repo] Started
+[2018-12-29 00:05:39] [Auto Install Repo] Repository already installed
+[2018-12-29 00:05:39] [Auto Update Wizard] Started
+[2018-12-29 00:05:41] [ Version : '2.7' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:05:44] [Auto Update Wizard] No New Version vFalse
+[2018-12-29 00:05:44] [Notifications] Started
+[2018-12-29 00:05:44] [Notifications] id: 31
+[2018-12-29 00:05:47] [Notification] NotifyID 31 Remind Me Later
+[2018-12-29 00:05:47] [Notifications] Complete
+[2018-12-29 00:05:47] [Installed Check] Started
+[2018-12-29 00:05:47] [Installed Check] Not Enabled
+[2018-12-29 00:05:47] [Build Check] Started
+[2018-12-29 00:05:47] [Build Check] First Run
+[2018-12-29 00:09:28] 2018-12-29 00:09:28.255000
+[2018-12-29 00:09:29] Continuing Start Up Script
+[2018-12-29 00:09:29] [Path Check] Started
+[2018-12-29 00:09:29] [Path Check] Good!
+[2018-12-29 00:09:29] [Auto Install Repo] Started
+[2018-12-29 00:09:29] [Auto Install Repo] Repository already installed
+[2018-12-29 00:09:29] [Auto Update Wizard] Started
+[2018-12-29 00:09:33] [Auto Update Wizard] No New Version vFalse
+[2018-12-29 00:09:33] [Notifications] Started
+[2018-12-29 00:09:37] [Notification] NotifyID 31 Remind Me Later
+[2018-12-29 00:09:37] [Installed Check] Started
+[2018-12-29 00:09:37] [Installed Check] Not Enabled
+[2018-12-29 00:09:37] [Build Check] Started
+[2018-12-29 00:09:37] [Build Check] First Run
+[2018-12-29 00:10:04] [Check Updates] [User Selected: Open Build Menu] [Next Check: 2018-12-29]
+[2018-12-29 00:10:05] [Trakt Data] Started
+[2018-12-29 00:10:05] [Login Data] Started
+[2018-12-29 00:10:05] [Login Data] Not Enabled
+[2018-12-29 00:10:05] [Auto Clean Up] Started
+[2018-12-29 00:10:05] [Auto Clean Up] Cache: On
+[2018-12-29 00:10:05] [Success] cleared 1 files from C:\Users\MyUniverse\AppData\Roaming\Kodi\cache\temp
+[2018-12-29 00:10:05] [Auto Clean Up] Old Thumbs: On
+[2018-12-29 00:10:05] 0 total thumbs cleaned up.
+[2018-12-29 00:10:05] [Auto Clean Up] Packages: On
+[2018-12-29 00:10:11] [ Version : '2.7' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:10:39] [ Version : '2.7' ] [ Mode : 'youtube' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:10:42] [ Version : '2.7' ] [ Mode : 'youtube' ] [ Name : 'http://tvandroidianox.com/Wizard/Video%20Guias%20VipTV.txt' ] [ Url : 'None' ]
+[2018-12-29 00:10:50] [ Version : '2.7' ] [ Mode : 'youtube' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:11:02] [ Version : '2.7' ] [ Mode : 'maint' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:11:09] [ Version : '2.7' ] [ Mode : 'maint' ] [ Name : 'tweaks' ] [ Url : 'None' ]
+[2018-12-29 00:11:15] [ Version : '2.7' ] [ Mode : 'maint' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:11:19] [ Version : '2.7' ] [ Mode : 'maint' ] [ Name : 'misc' ] [ Url : 'None' ]
+[2018-12-29 00:11:32] [ Version : '2.7' ] [ Mode : 'forceclose' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:11:38] Force Closing Kodi: Platform[windows]
+[2018-12-29 00:11:46] 2018-12-29 00:11:46.686000
+[2018-12-29 00:11:47] Continuing Start Up Script
+[2018-12-29 00:11:47] [Path Check] Started
+[2018-12-29 00:11:47] [Path Check] Good!
+[2018-12-29 00:11:47] [Auto Install Repo] Started
+[2018-12-29 00:11:47] [Auto Install Repo] Repository already installed
+[2018-12-29 00:11:47] [Auto Update Wizard] Started
+[2018-12-29 00:11:52] [Auto Update Wizard] No New Version vFalse
+[2018-12-29 00:11:52] [Notifications] Started
+[2018-12-29 00:13:48] [Notification] NotifyID 31 Remind Me Later
+[2018-12-29 00:13:48] [Installed Check] Started
+[2018-12-29 00:13:48] [Installed Check] Not Enabled
+[2018-12-29 00:13:48] [Build Check] Started
+[2018-12-29 00:13:48] [Trakt Data] Started
+[2018-12-29 00:13:48] [Login Data] Started
+[2018-12-29 00:13:48] [Login Data] Not Enabled
+[2018-12-29 00:13:48] [Auto Clean Up] Started
+[2018-12-29 00:13:48] [Auto Clean Up] Cache: On
+[2018-12-29 00:13:48] [Success] cleared 1 files from C:\Users\MyUniverse\AppData\Roaming\Kodi\cache\temp
+[2018-12-29 00:13:48] [Auto Clean Up] Old Thumbs: On
+[2018-12-29 00:13:48] 0 total thumbs cleaned up.
+[2018-12-29 00:13:48] [Auto Clean Up] Packages: On
+[2018-12-29 00:14:07] [ Version : '2.7' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:18:02] 2018-12-29 00:18:02.125000
+[2018-12-29 00:18:03] Continuing Start Up Script
+[2018-12-29 00:18:03] [Path Check] Started
+[2018-12-29 00:18:03] [Path Check] Good!
+[2018-12-29 00:18:03] [Auto Install Repo] Started
+[2018-12-29 00:18:03] [Auto Install Repo] Repository already installed
+[2018-12-29 00:18:03] [Auto Update Wizard] Started
+[2018-12-29 00:18:07] [Auto Update Wizard] No New Version vFalse
+[2018-12-29 00:18:07] [Notifications] Started
+[2018-12-29 00:18:11] [Notification] NotifyID 31 Remind Me Later
+[2018-12-29 00:18:11] [Installed Check] Started
+[2018-12-29 00:18:11] [Installed Check] Not Enabled
+[2018-12-29 00:18:11] [Build Check] Started
+[2018-12-29 00:18:11] [Trakt Data] Started
+[2018-12-29 00:18:11] [Login Data] Started
+[2018-12-29 00:18:11] [Login Data] Not Enabled
+[2018-12-29 00:18:11] [Auto Clean Up] Started
+[2018-12-29 00:18:11] [Auto Clean Up] Cache: On
+[2018-12-29 00:18:12] [Success] cleared 1 files from C:\Users\MyUniverse\AppData\Roaming\Kodi\cache\temp
+[2018-12-29 00:18:12] [Auto Clean Up] Old Thumbs: On
+[2018-12-29 00:18:12] 0 total thumbs cleaned up.
+[2018-12-29 00:18:12] [Auto Clean Up] Packages: On
+[2018-12-29 00:18:21] [ Version : '2.7' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-12-29 00:21:47] 2018-12-29 00:21:47.280000
+[2018-12-29 00:21:48] Continuing Start Up Script
+[2018-12-29 00:21:48] [Path Check] Started
+[2018-12-29 00:21:48] [Path Check] Good!
+[2018-12-29 00:21:48] [Auto Install Repo] Started
+[2018-12-29 00:21:48] [Auto Install Repo] Repository already installed
+[2018-12-29 00:21:48] [Auto Update Wizard] Started
+[2018-12-29 00:21:52] [Auto Update Wizard] No New Version vFalse
+[2018-12-29 00:21:52] [Notifications] Started
+[2018-12-29 00:21:57] [Notification] NotifyID 31 Remind Me Later
+[2018-12-29 00:21:58] [Installed Check] Started
+[2018-12-29 00:21:58] [Installed Check] Not Enabled
+[2018-12-29 00:21:58] [Build Check] Started
+[2018-12-29 00:21:58] [Trakt Data] Started
+[2018-12-29 00:21:58] [Login Data] Started
+[2018-12-29 00:21:58] [Login Data] Not Enabled
+[2018-12-29 00:21:58] [Auto Clean Up] Started
+[2018-12-29 00:21:58] [Auto Clean Up] Cache: On
+[2018-12-29 00:21:58] [Success] cleared 1 files from C:\Users\MyUniverse\AppData\Roaming\Kodi\cache\temp
+[2018-12-29 00:21:58] [Auto Clean Up] Old Thumbs: On
+[2018-12-29 00:21:58] 0 total thumbs cleaned up.
+[2018-12-29 00:21:58] [Auto Clean Up] Packages: On
+[2018-12-29 00:22:29] [ Version : '2.7' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
